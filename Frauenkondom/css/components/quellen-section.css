@@ -1,0 +1,33 @@
+.quellen-section{
+    width: 50%;
+    height: 90%;
+    /* background-color: red; */
+    align-items: center;
+    text-align: center;
+    font-weight: 50px;
+    align-content: center;
+}
+.quellen-section>p{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.quellen-section>ul>li{
+    /* color: white; */
+    font-size: 1.5em;
+    /* margin: var(--main-margin); */
+    margin-top: 20px;
+    list-style:none;
+}
+
+ul>li:hover{
+    /* text-decoration: underline; */
+    cursor: pointer;
+    color: #e6109e;
+}
+
+
+.copyright{
+    margin-top: 20px;
+    font-size: 1.5em;
+}

@@ -1,0 +1,35 @@
+h1,h2,h3{
+    font-weight: bold;
+}
+
+h1{
+    margin: var(--main-margin);
+    text-align: center;
+    font-size: 5em;
+}
+
+h2{
+    font-size: 2.5em;
+    /* background-color: red; */
+}
+
+h3{
+    font-size: 2em;
+    text-align: center;
+    margin: var(--main-margin);
+
+}
+
+h2{
+    text-align: left;
+    margin: var(--main-margin);
+}
+
+p{
+      font-size: 20pt;
+}
+
+a:hover{
+    cursor: pointer;
+    color: #e6109e;
+}

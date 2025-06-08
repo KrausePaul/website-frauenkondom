@@ -1,0 +1,9 @@
+body{
+    justify-items: center;
+    cursor: url("/image/cursor/dot-white-mode.png") ,auto;
+}
+
+p:hover{
+    cursor:text;
+}
+

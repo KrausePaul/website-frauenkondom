@@ -1,0 +1,9 @@
+.wirkung-anwendung,.sicherheit,.gefahren,.ärztliche-tipps,.commentary,.bildquellen-section{
+    width: 90%;
+    height: fit-content;
+    /* align-items: c; */
+    /* background-color: red; */
+    justify-self: center;
+    margin: var(--main-margin);
+}
+

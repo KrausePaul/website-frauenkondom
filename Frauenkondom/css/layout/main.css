@@ -1,0 +1,7 @@
+main{
+    width: 75%;
+    height: fit-content;
+    /* background-color: green; */
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}

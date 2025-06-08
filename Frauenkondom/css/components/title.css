@@ -1,0 +1,16 @@
+.werbespruch{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.title-banner{
+    width: 90%;
+    height: 400px;
+    justify-self: center;
+    background-color: red;
+    margin: var(--main-margin);
+    background-image: url("/image/banner/5760787.jpg");
+    background-size: cover;
+}

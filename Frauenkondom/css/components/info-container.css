@@ -1,0 +1,48 @@
+.info-container{
+    width: 100%;
+    height: 500px;
+    /* background-color: red; */
+    display: flex;
+}
+
+.text-box{
+    width: 50%;
+    height: 100%;
+    /* display: flexbox; */
+    /* background-color: green; */
+    /* align-content: center; */
+    align-content: center;
+}
+
+.text-box>h2{
+    margin-top: -1px ;
+}
+
+.picture-box{
+    width: 50%;
+    height: 100%;
+    /* background-color: orange; */
+    align-content: center;
+}
+
+.picture-box>img{
+    width: 600px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    border-radius: 10%;
+    /* border: 1px solid black; */
+    /* background-color: green; */
+    /* justify-content: center; */
+}
+
+#profile-picture{
+    width: 300px;
+    border: none;
+
+}
+
+.zitat{
+    font-size: 25pt;
+    text-align: center;
+}

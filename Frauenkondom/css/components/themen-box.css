@@ -1,0 +1,35 @@
+.themen-box{
+    background-color:  #c40785cc;
+    /* background-color:  #1e1e1e; */
+    /* background-color:  #fff; */
+    width: 150px;
+    height: fit-content;
+    gap: 5;
+    /* display: ; */
+    position: absolute;
+    /* display; */
+    margin-left: 205px;
+    color: white;
+    /* color: black; */
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    border-radius: 5%;
+}
+
+.active{
+    visibility: visible;
+}
+
+.inactive{
+    visibility: hidden;
+}
+
+.themen-box>ul>li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.themen-box>ul>li>a:hover{
+    color: black;
+}
